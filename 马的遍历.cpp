@@ -58,7 +58,7 @@ int main()
         {
             cout<<dis[i][j]<<" ";
         }
-        cout<<endl;
+        cout<<endl<<" ";
     }
 
 }
